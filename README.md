@@ -1,4 +1,4 @@
-# -Count-Increasing-Quadruplets
+# Count-Increasing-Quadruplets
 
 
 Given a 0-indexed integer array nums of size n containing all numbers from 1 to n, return the number of increasing quadruplets.
